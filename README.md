@@ -12,7 +12,6 @@
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a>
     <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/> </a>
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/> </a>
-    <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
     <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="Visual Studio" width="40" height="40"/> </a>
 </p>
@@ -24,6 +23,29 @@
 - :bulb: Skilled in designing **custom business applications** tailored to clients’ needs  
 - :rocket: Passionate about learning new technologies and transitioning into **.NET MAUI** for cross-platform apps  
 - :dart: Life Hack: "Solve problems first, then write code that lasts"  
+
+<h2 align="left">🚀 Featured Projects:</h2>
+
+### 📌 POS & Inventory Management System  
+A complete solution for managing sales, inventory, and cost control in retail & restaurants.  
+![POS Demo](https://via.placeholder.com/600x300?text=POS+System+Demo)  
+🔗 [View Project](https://github.com/ASControlDevelopment/POS-System)
+
+---
+
+### 🎮 PlayStation Management Software  
+Custom software for PlayStation cafés with session tracking, billing, and reporting.  
+![PlayStation Demo](https://via.placeholder.com/600x300?text=PlayStation+Manager+Demo)  
+🔗 [View Project](https://github.com/ASControlDevelopment/PlayStation-Manager)
+
+---
+
+### 🏢 ERP Modules  
+Modules covering accounting, HR, purchases, and inventory with tailored workflows.  
+![ERP Demo](https://via.placeholder.com/600x300?text=ERP+Modules+Demo)  
+🔗 [View Project](https://github.com/ASControlDevelopment/ERP-Modules)
+
+---
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
