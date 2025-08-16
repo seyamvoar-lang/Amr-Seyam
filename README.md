@@ -28,5 +28,5 @@
 <h2 align="left">🚀 Featured Projects:</h2>
 
 ### 📌 POS & Inventory Management System  
-A complete solution for managing sales, inventory, and cost control in retail & restaurants.  
+A complete solution for managing sales, inventory, and cost control in retail & restaurants.     
 ![POS Demo](https://via.placeh)
