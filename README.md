@@ -1,7 +1,7 @@
-<h2 align="center">
+<h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <h1> عمرو صيام | Amr Seyam</h1>
+  <h1 align = "left"> عمرو صيام | Amr Seyam</h1>
    <h3> Desktop Software Developer 💻<h3>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
