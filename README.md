@@ -50,7 +50,6 @@ Modules covering accounting, HR, purchases, and inventory with tailored workflow
 <h2 align="left">:heart: Let's get connected:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Amr_Seyam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amr-seyam-development-780777379/)](https://www.linkedin.com/in/amr-seyam-development-780777379/)  
-[![Gmail Badge](https://img.shields.io/badge/-seyamvoar@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:seyamvoar@gmail.com)](mailto:seyamvoar@gmail.com)  
-[![Linkedin Badge](https://img.shields.io/badge/-Amr_Seyam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amr-seyam-development-780777379/)](https://www.linkedin.com/in/amr-seyam-development-780777379/)
+[![Gmail Badge](https://img.shields.io/badge/-seyamvoar@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:seyamvoar@gmail.com)](mailto:seyamvoar@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-ASControl--Development-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/ASControlDevelopment)](https://github.com/ASControlDevelopment)
 
